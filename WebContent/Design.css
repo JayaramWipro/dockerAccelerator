@@ -1,0 +1,118 @@
+@charset "ISO-8859-1";
+#TitleDiv
+		{
+			height:120px;
+			width:1370px;
+			background-color:white;					
+		}
+		#TitleDivLogin
+		{
+			height:50px;
+			width:1370px;
+			background-color:white;					
+		}
+		#LeftDiv
+		{
+			height:120px;
+			width:60px;
+			backgroung-color:lime;
+			border-radius:20px 0px 0px 0px;
+			position:absolute;			
+			float:left;
+		}
+		#LeftDiv img
+		{		
+			height:120px;
+			width:120px;					
+		}
+		#SideDiv
+		{			
+			padding-top:15px;	
+			width:280px;	
+			float:right;					
+			color:black;
+			padding-left:10px;			
+			text-align: center;
+		}
+		#SideDiv h4
+		{			
+			padding-top:50px;
+		}
+		#RightDiv	
+		{			
+			height:120px;			
+			color:white;			
+			width:1200px;							
+			position:absolute;		
+														
+		}
+		#RightDiv h3	
+		{																						
+			font: bold 35px Segoe UI;
+			padding-top:15px;
+			padding-left: 35%;
+			color:black;					
+		}
+		#RightDiv h4	
+		{																											
+			padding-top:10px;
+			color:black;			
+			text-align:left;					
+		}	
+		#TopDiv
+		{
+			height:820px;
+			width:1330px;								
+		}
+		
+		#left
+		{
+			width:520px;			
+			position: absolute;
+			
+		}
+		#right
+		{
+			width:500px;						
+			float:right;					
+			
+		}	
+		#TitleS2i
+		{
+			height: 120px;							
+		}
+		#leftTitleS2i
+		{
+			position: absolute;
+			float: left;			
+			width:730px;					
+												
+		}
+		#heading
+		{
+			position: absolute;
+			padding-left: 60px;
+			width: 480px;
+			text-align:right;					
+		}
+		#s2i
+		{
+			float:right;			
+		}
+		#rightTitleS2i
+		{				
+			
+			width:510px;
+			float:right;			
+			
+		}
+		#button
+		{
+			text-align:center;
+		}
+		#button input:hover
+		{
+			background: #5CB5CD;
+			color: white;
+		}
+		
